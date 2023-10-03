@@ -29,7 +29,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 #### To run the project locally, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/hotel-listing-app.git
+- Clone the repository: git clone https://github.com/codeArtCreator/car-listing-application
 - Navigate to the project directory: cd hotel-listing-app
 - Install dependencies: npm install
 - Start the development server: npm run dev
